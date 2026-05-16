@@ -21,8 +21,9 @@ This workspace is intentionally conservative. It does not spam maintainers, test
 ## Quick Start
 
 ```bash
-cd /Users/scarstar/github-money-ops
-./scripts/run_scout.sh
+git clone https://github.com/kzyscarstar/github-money-ops.git
+cd github-money-ops
+bash scripts/run_scout.sh
 ```
 
 Optional:
