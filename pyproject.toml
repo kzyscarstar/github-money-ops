@@ -1,0 +1,13 @@
+[project]
+name = "github-money-ops"
+version = "0.1.0"
+description = "Lawful automation for finding and preparing GitHub-based earning opportunities."
+requires-python = ">=3.11"
+dependencies = []
+
+[project.scripts]
+money-ops-scout = "money_ops.scout:main"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
