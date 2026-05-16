@@ -1,0 +1,60 @@
+{
+  "github_login": "kzyscarstar",
+  "public_name": "scarstar",
+  "profile_language": "bilingual_zh_en",
+  "public_background_policy": "do_not_disclose_school_or_personal_background",
+  "permissions": {
+    "publish_github_money_ops": true,
+    "open_pull_requests": true,
+    "post_issue_or_pr_comments": true,
+    "use_or_register_bounty_platforms": [
+      "Algora",
+      "IssueHunt",
+      "HackerOne",
+      "Bugcrowd",
+      "Gitcoin"
+    ]
+  },
+  "inferred_strengths": [
+    "AI agent tooling",
+    "TypeScript and Node.js",
+    "Python data analysis",
+    "Chinese-English documentation"
+  ],
+  "preferred_work": [
+    "documentation fixes with clear acceptance criteria",
+    "TypeScript bug fixes",
+    "Python automation",
+    "AI agent integrations",
+    "Web3 or crypto bounties with clear payout terms",
+    "security tasks only when scope and authorization are explicit"
+  ],
+  "earning_preferences": {
+    "minimum_payout_usd": 0,
+    "technology_stack_policy": "automation_decides",
+    "accept_documentation_tasks": true,
+    "accept_web3_crypto_tasks": true,
+    "accept_security_tasks": "authorized_scope_only"
+  },
+  "recommended_receiving_stack": [
+    "PayPal China for the broadest bounty-platform compatibility - ready",
+    "Payoneer for marketplace or B2B platform payouts",
+    "Wise as an optional multi-currency rail if account details are available",
+    "Direct bank SWIFT for larger one-off payments",
+    "Crypto wallet only for platforms that explicitly support legal crypto payouts"
+  ],
+  "payment_readiness": {
+    "paypal_china": "personal account opened and bank card linked",
+    "paypal_disclosure_policy": "owner binds PayPal inside trusted platforms; do not share PayPal password, card details, verification codes, or full credentials with automation",
+    "payoneer": "not set",
+    "wise": "not set",
+    "direct_bank_swift": "available only if platform supports it",
+    "crypto_wallet": "not set"
+  },
+  "avoid": [
+    "unauthorized security testing",
+    "spam pull requests",
+    "unclear payment terms",
+    "projects with stale maintainers"
+  ]
+}
