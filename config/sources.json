@@ -1,0 +1,70 @@
+{
+  "github_issue_queries": [
+    {
+      "name": "explicit-bounty",
+      "query": "is:issue is:open bounty no:assignee",
+      "per_page": 12
+    },
+    {
+      "name": "typescript-ai-help",
+      "query": "is:issue is:open label:\"help wanted\" no:assignee TypeScript AI",
+      "per_page": 12
+    },
+    {
+      "name": "python-automation-help",
+      "query": "is:issue is:open label:\"help wanted\" no:assignee Python automation",
+      "per_page": 12
+    },
+    {
+      "name": "docs-good-first",
+      "query": "is:issue is:open label:\"good first issue\" no:assignee docs",
+      "per_page": 12
+    },
+    {
+      "name": "llm-agent-bugs",
+      "query": "is:issue is:open label:bug no:assignee LLM agent",
+      "per_page": 12
+    }
+  ],
+  "bounty_pages": [
+    {
+      "name": "Algora",
+      "url": "https://algora.io/bounties"
+    },
+    {
+      "name": "IssueHunt",
+      "url": "https://oss.issuehunt.io/issues"
+    }
+  ],
+  "positive_keywords": [
+    "ai",
+    "agent",
+    "llm",
+    "typescript",
+    "javascript",
+    "node",
+    "python",
+    "automation",
+    "docs",
+    "readme"
+  ],
+  "negative_keywords": [
+    "requires maintainer access",
+    "enterprise only",
+    "needs production credentials",
+    "blocked",
+    "security bounty",
+    "scope",
+    "generation_context",
+    "session_init",
+    "complete initialization text",
+    "paste everything your platform provided",
+    "complete and unmodified",
+    "secret keys",
+    "where is the github issue",
+    "where's the gh issue",
+    "which github issue",
+    "is this issue still available",
+    "solution submitted"
+  ]
+}
