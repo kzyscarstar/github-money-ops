@@ -1,0 +1,1 @@
+"""GitHub Money Ops package."""
